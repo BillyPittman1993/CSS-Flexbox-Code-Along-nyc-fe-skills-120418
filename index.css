@@ -43,7 +43,7 @@ footer {
 }
 
 .setWidth {
-  flex-basis: 100px;
+  flex: auto;
   flex-grow: 1;
 }
 
